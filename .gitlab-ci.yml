@@ -20,9 +20,10 @@ test:
 pages:
   stage: deploy
   script:
-  - bundle exec jekyll build -d public
+  - bundle exec jekyll build -d site_build
   artifacts:
     paths:
-    - public
+    - site_build
+    - docker_compose.yml
   only:
   - master
