@@ -24,6 +24,6 @@ pages:
   artifacts:
     paths:
     - public/
-    - docker_compose.yml
+    - docker-compose.yml
   only:
   - master
