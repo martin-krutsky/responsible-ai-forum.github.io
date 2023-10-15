@@ -62,4 +62,4 @@ paginate: 10
 
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.md, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, docker_compose.yml]
+exclude: [README.md, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, docker-compose.yml]
