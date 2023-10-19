@@ -1,4 +1,13 @@
-# Jekyll Theme - Mundana by WowThemes.net
+
+# Responsible AI @Prague Site
+
+This repository contains Jekyll project for static site of Responsible AI @Prague project.
+Currently, in testing stage, the site is automaticaly build on push to master branch and deployed to http://147.32.80.68:8080/.
+
+
+
+
+## Jekyll Theme - Mundana by WowThemes.net
 
 [Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
 [Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
@@ -7,11 +16,11 @@
 
 ![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
 
-### Documentation
+#### Documentation
 
 [How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
 
-### Contribute to Mundana repository
+#### Contribute to Mundana repository
 
 1. In the top-right corner of this page, click **Fork**.
 
@@ -38,7 +47,7 @@
 That's it! Soon I'll be merging your changes into the master branch of this project. You will get a notification email once the changes have been merged. Thank you for your contribution.
 
 
-### Copyright
+#### Copyright
 
 Copyright (C) 2019 WowThemes.net.
 
@@ -46,6 +55,6 @@ Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under M
 
 <a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-### Live Demo
+#### Live Demo
 
 [Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
