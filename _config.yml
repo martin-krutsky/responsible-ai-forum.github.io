@@ -1,6 +1,6 @@
 # Site
 name: 'Responsible AI <small>@Prague</small>'
-name-short: 'Responsible AI @Prague'
+name-direct: 'Responsible AI @Prague'
 description: ''
 logo: 'assets/images/logo.png' # TODO make a logo?
 favicon: 'assets/images/favicon.ico'
