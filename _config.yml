@@ -1,11 +1,12 @@
 # Site
-name: 'Responsible AI @Prague'
+name: 'Responsible AI <small>@Prague</small>'
+name-short: 'Responsible AI @Prague'
 description: ''
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo.png' # TODO make a logo?
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'demowebsite'
-email: ''
+# disqus: 'demowebsite'
+email: 'responsible-ai@fel.cvut.cz'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -43,8 +44,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      # author: sal
+      # avatar: /assets/images/avatar1.jpg
       
   # all pages
   - scope:
