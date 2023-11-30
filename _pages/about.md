@@ -7,11 +7,13 @@ comments: true
 
 ---
 
-We are a Prague-based group of researchers of AI meeting regularly to and discuss educate ourselves about Responsible AI. By "Responsible AI", a somewhat loaded term, we mean AI in a wider social context, ranging from philosophy to AI applicaitons.
+We are an open discussion forum of people interested in ethical and responsible approaches to research and development of technologies in the areas of artificial intelligence, robotics, cybersecurity, and others. Our aim is to educate ourselves through a series of debates/discussions on interdisciplinary topics, such as professional ethics, AI safety, and regulation. We recognize that many of these topics are outside of our expertise, but we also recognize the need to be better informed in order to make better decisions in our professional lives. We are open to everybody (from academia, industry, as well as the general public) interested in these topics.
 
-We aim to be a place for regular inter-disciplinary discussions between people from all domains and walks of life. A place, where we learn from one another what it means for AI to be responsible.
 
-### The people
+## Supporters
+Do you agree with our aims? Come and join us!
+
+<!-- ### The people
 <div style="display:flex;flex-wrap:wrap;text-align:center">
     <div style="margin:1em;width:200px">
         <img src="/assets/images/people/martin.png" alt="Martin Krutský" style="max-height:200px;"/>
@@ -37,4 +39,4 @@ We aim to be a place for regular inter-disciplinary discussions between people f
         <img src="/assets/images/people/jiri.png" alt="Jiří Němeček" style="max-height:200px;"/>
         <br>Jiří Němeček, FEE CTU
     </div>
-</div>
+</div> -->

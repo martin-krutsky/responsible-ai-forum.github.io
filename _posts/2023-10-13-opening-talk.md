@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Who is responsible in Prague? Kick-off presentation, mapping efforts towards Responsible AI in Prague."
+title:  "Kick-off presentation, mapping efforts towards Responsible AI in Prague."
 categories: [ events ]
 image: assets/images/prague.png
 tags: [sticky, featured]
